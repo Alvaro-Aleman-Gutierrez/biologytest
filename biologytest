@@ -1,156 +1,156 @@
 {
   "QuizQuestions": [
     {
-      "Question": "Este proceso consiiste en el desplazamiento de organismos de una población a otra de la misma especie, por medio del cual se intercambian genes, por lo tanto, aumenta la variabilidad genética en las poblaciones",
+      "Question": "Este proceso consiste en el desplazamiento de organismos de una población a otra de la misma especie, por medio del cual se intercambian genes, por lo tanto, aumenta la variabilidad genética en las poblaciones",
       "Option_1": "Evolución",
       "Option_2": "Flujo genético",
-      "Option_3": "Deriva genética",
-      "Option_4": "Reproducción sexual",
+      "Option_3": "Deriva Genética",
+      "Option_4": "Resproduccion sexual",
       "Correct_Answer": "Flujo genético"
     },
     {
-      "Question": "Which of these things do mycologists study?",
-      "Option_1": "Stars",
-      "Option_2": "Whales",
-      "Option_3": "Microbes",
-      "Option_4": "Mushrooms",
-      "Correct_Answer": "Mushrooms"
+      "Question": "Consiste en un proceso gradual que afecta a las poblaciones de seres vivos, los cuales experimentan cambios de manera paulatina que se pueden observar solo a lo largo del extensos periodos de tiempo, generalmente de miles a millones de años",
+      "Option_1": "Selección natural",
+      "Option_2": "Flujo gético",
+      "Option_3": "Evolución",
+      "Option_4": "Mutación",
+      "Correct_Answer": "Evolución"
     },
     {
-      "Question": "Which of these mountain ranges has the highest maximum elevation?",
-      "Option_1": "Rockes",
-      "Option_2": "Andes",
-      "Option_3": "Urals",
-      "Option_4": "Alps",
-      "Correct_Answer": "Andes"
+      "Question": "La fuente de variabilidad genética que resulta de la alteración en la estructura del ADN y que se transmite a través de las generaciones se denomina",
+      "Option_1": "Mutación",
+      "Option_2": "Deriva genética",
+      "Option_3": "Migración genética",
+      "Option_4": "Reproducción sexual",
+      "Correct_Answer": "Mutación"
     },
     {
-      "Question": "Which of these cities has the highest population?",
-      "Option_1": "Singapore",
-      "Option_2": "Shangai",
-      "Option_3": "New York",
-      "Option_4": "San Francisco",
-      "Correct_Answer": "Shangai"
+      "Question": "En ocasiones ocurreb eventos climáticos extermos que reducen de manera drástica una población pequeña de organismos, lo cual se conoce como efecto de cuello de botella. La nueva población posee una variablidad genética reducida en comparación con la población antes de verse afectada por dichos eventos",
+      "Option_1": "Desplazamiento genético al azar",
+      "Option_2": "Radiación  adaptativa",
+      "Option_3": "Migración genética",
+      "Option_4": "Cooperación",
+      "Correct_Answer": "Radiación  adaptativa"
     },
     {
-      "Question": "What does a nidoligist study?",
-      "Option_1": "Waves",
-      "Option_2": "Clouds",
-      "Option_3": "Bird Nests",
-      "Option_4": "Caves",
-      "Correct_Answer": "Bird Nests"
+      "Question": "¿Cuál es el nombre de la evidencia evolutiva que consiste en comparar moléculas de organismos de diferentes especies y al detectar similitudes, indica un antecesor común para dichas especies?",
+      "Option_1": "Paleontológica",
+      "Option_2": "Embriológica",
+      "Option_3": "Bioquímica",
+      "Option_4": "Anatómica",
+      "Correct_Answer": "Bioquímica"
     },
     {
-      "Question": "Which kind of animal did Florence Nightingale often carry around in her pocket?",
-      "Option_1": "Kitten",
-      "Option_2": "Puppy",
-      "Option_3": "Owl",
-      "Option_4": "Snake",
-      "Correct_Answer": "Owl"
+      "Question": "¿Cuál es la teoría sobre el origen de la vida en nuestro planeta basada en la transformación de moléculas inorgánicas a moléculas orgánicas que posteriormente originaron las primeras células procariotas?",
+      "Option_1": "Generación espontánea",
+      "Option_2": "Origen quimiosintético",
+      "Option_3": "Gradualismo",
+      "Option_4": "Panspermia",
+      "Correct_Answer": "Origen quimiosintético"
     },
     {
-      "Question": "Hitler party which came into power in 1933 is known as:",
-      "Option_1": "Ku-Klux-Klan",
-      "Option_2": "Labour party",
-      "Option_3": "Nazi Party",
-      "Option_4": "Democratic Party",
-      "Correct_Answer": "Nazi Party"
+      "Question": "Las tenias pertenecen al grupo de los Platelmintos, se alimentan de sustancias nutritivas en el interior de los intestinos de los animales. De acuerdo con Whittaker, ¿en qué reino se clasifican estos organismos?",
+      "Option_1": "Plantae",
+      "Option_2": "Monera",
+      "Option_3": "Animal",
+      "Option_4": "Fungi",
+      "Correct_Answer": "Monera"
     },
     {
-      "Question": "Entomology is the science that studies:",
-      "Option_1": "Formation of Rocks",
-      "Option_2": "Behaviour of Human Beings",
-      "Option_3": "Plants",
-      "Option_4": "Insects",
-      "Correct_Answer": "Insects"
+      "Question": "¿Cuál es la enfermedad causada por un virus que se caracteriza por afectar el sistema inmunológico del organismo, de tal forma que sus defensas se ven reducidas frente a otras enfermedades?",
+      "Option_1": "Meningitis",
+      "Option_2": "Gonorrea",
+      "Option_3": "Dengue",
+      "Option_4": "Sida",
+      "Correct_Answer": "Sida"
     },
     {
-      "Question": "Cirrus or cumulus are examples of :",
-      "Option_1": "Asteroids",
-      "Option_2": "Clouds",
-      "Option_3": "Bone in the human body",
-      "Option_4": "Roman Gods",
-      "Correct_Answer": "Clouds"
+      "Question": "¿Cuál es el nombre que recibe el conjunto de organismos de diferentes especies que se encuentran coexistiendo en un determinado lugar?",
+      "Option_1": "Biosfera",
+      "Option_2": "Población",
+      "Option_3": "Comunidad",
+      "Option_4": "Nicho ecológico",
+      "Correct_Answer": "Comunidad"
     },
     {
-      "Question": "Who was the Greek goddess associated with the moon?",
-      "Option_1": "Neptune",
-      "Option_2": "Appollo",
-      "Option_3": "Artemis",
-      "Option_4": "Uranus",
-      "Correct_Answer": "Artemis"
+      "Question": "¿Cuál es el tipo de interacción en donde una especie de organismo se beneficia y la otra no se ve favorecida ni perjudicada?",
+      "Option_1": "Comensalismo",
+      "Option_2": "Competencia",
+      "Option_3": "Parasitismo",
+      "Option_4": "Mutualismo",
+      "Correct_Answer": "Comensalismo"
     },
     {
-      "Question": "What is the biggest living fish in the ocean?",
-      "Option_1": "Whale Shark",
-      "Option_2": "Tuna",
-      "Option_3": "Barracuda",
-      "Option_4": "Great White Shark",
-      "Correct_Answer": "Whale Shark"
+      "Question": "¿Qué nombre recibe el nivel trófico al que pertenece el fitoplancton, en los ecosistemas conformado por microorganismos fotosintéticos, como por ejemplo, las diatomeas?",
+      "Option_1": "Consumidor secundario",
+      "Option_2": "Consumidor primario",
+      "Option_3": "Descomponedor",
+      "Option_4": "Productor",
+      "Correct_Answer": "Productor"
     },
     {
-      "Question": "Grand Central Terminal in New York's Park Avenue is the world's __________ railway station:",
-      "Option_1": "longest",
-      "Option_2": "highest",
-      "Option_3": "largest",
-      "Option_4": "oldest",
-      "Correct_Answer": "largest"
+      "Question": "¿Cuál es la formación vegetal de Costa Rica que se localizada a una altitud superior a los 3000 m sobre el nivel del mar, cuya característica principal son las bajas temperaturas y la ausencia de formaciones arbóreas?",
+      "Option_1": "Sabana y matorral espinoso",
+      "Option_2": "Bosque de galería",
+      "Option_3": "Páramo subalpino",
+      "Option_4": "Bosque montano",
+      "Correct_Answer": "Bosque montano"
     },
     {
-      "Question": "Which chess piece can't move in a straight line?",
-      "Option_1": "Rook",
-      "Option_2": "Knight",
-      "Option_3": "King",
-      "Option_4": "Bishop",
-      "Correct_Answer": "Knight"
+      "Question": "¿Cuál es el factor artificial que altera el balance de la naturaleza al verter aguas residuales en ríos y océanos?",
+      "Option_1": "Efecto invernadero",
+      "Option_2": "Contaminación",
+      "Option_3": "Defosrestación",
+      "Option_4": "Mitigación",
+      "Correct_Answer": "Contaminación"
     },
     {
-      "Question": "In what year did World War II end?",
-      "Option_1": "1945",
-      "Option_2": "1947",
-      "Option_3": "1943",
-      "Option_4": "1942",
-      "Correct_Answer": "1945"
+      "Question": "¿Cuál es el nombre de las áreas protegidas generalmente extensas y sin asentamientos humanos, destinadas a la conservación de recursos naturales, la investigación y el turismo?",
+      "Option_1": "Refugio de vida silvestre estatal",
+      "Option_2": "Refugio de vida silvestre mixto",
+      "Option_3": "Monumento nacional",
+      "Option_4": "Parque nacional",
+      "Correct_Answer": "Parque nacional"
     },
     {
-      "Question": "When is International Women's Day?",
-      "Option_1": "January 8th",
-      "Option_2": "August 23rd",
-      "Option_3": "March 8th",
-      "Option_4": "December 5th",
-      "Correct_Answer": "March 8th"
+      "Question": "Cuando los organismos de una población se dispersan y se integran a una nueva población de su misma especie, provocan el intercambio de genes entre poblaciones. Esta fuente de variabilidad genética se denomina",
+      "Option_1": "Evolución",
+      "Option_2": "Migración genética",
+      "Option_3": "Deriva Genética",
+      "Option_4": "Resproduccion sexual",
+      "Correct_Answer": "Migración genética"
     },
     {
-      "Question": "How are bats able to fly in the dark?",
-      "Option_1": "X-ray Vision",
-      "Option_2": "Sixth Sense",
-      "Option_3": "Echolocation",
-      "Option_4": "Night vision",
-      "Correct_Answer": "Echolocation"
+      "Question": "¿Cuál es la evidencia evolutiva, basada en los restos de organismos extintos, que al compararse con organismos que existen actualmente revelan un ancestro en común?",
+      "Option_1": "Paleontológica",
+      "Option_2": "Embriológica",
+      "Option_3": "Bioquímica",
+      "Option_4": "Anatómica",
+      "Correct_Answer": "Paleontológica"
     },
     {
-      "Question": "A Xylophone is a:",
-      "Option_1": "electronic device",
-      "Option_2": "musical instrument",
-      "Option_3": "stereo telephone",
-      "Option_4": "medical device",
-      "Correct_Answer": "musical instrument"
+      "Question": "12) ¿Cuál es el nombre de la teoría que propone el origen de la vida en la Tierra a partir de bacterias procedentes de otros planetas?",
+      "Option_1": "Generación espontánea",
+      "Option_2": "Origen quimisintético",
+      "Option_3": "Gradualismo",
+      "Option_4": "Panspermia",
+      "Correct_Answer": "Panspermia"
     },
     {
-      "Question": "Complete this proverb: All roads lead to _______.",
-      "Option_1": "Home",
-      "Option_2": "Rome",
-      "Option_3": "Charity",
-      "Option_4": "Wisdon",
-      "Correct_Answer": "Rome"
+      "Question": "¿Cuál es el reino biológico en el que todos los organismos son eucariotas y pluricelulares; además, en su mayoría con un sistema sensorial y nervioso bien desarrollado?",
+      "Option_1": "Monera",
+      "Option_2": "Protista",
+      "Option_3": "Animal",
+      "Option_4": "Fungi",
+      "Correct_Answer": "Animal"
     },
     {
-      "Question": "Speed skating originated in which country?",
-      "Option_1": "Russia",
-      "Option_2": "Netherlands",
-      "Option_3": "Canada",
-      "Option_4": "Norway",
-      "Correct_Answer": "Netherlands"
+      "Question": "Las hepáticas son un grupo de organismos pluricelulares y fotosintéticos que pertenecen al grupo de las Briófitas. Se les encuentra en lugares muy húmedos. ¿En qué reino se clasifican estos organismos?",
+      "Option_1": "Plantae",
+      "Option_2": "Monera",
+      "Option_3": "Fungi",
+      "Option_4": "Animal",
+      "Correct_Answer": "Plantae"
     }
   ]
 }
